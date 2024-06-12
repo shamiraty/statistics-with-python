@@ -37,9 +37,6 @@ This script performs statistical analysis on the age column of a dataset contain
 ### YouTube
 [Watch the video](https://youtu.be/6x2scEtGFpg)
 
-### WhatsApp
-+255675839840
-
 ![4 - Copy](https://github.com/shamiraty/statistics-with-python/assets/129072179/30c86055-89a7-4560-ba94-1bb20213d9e0)
 ![3 - Copy](https://github.com/shamiraty/statistics-with-python/assets/129072179/f9a84ee1-719e-4717-9c14-93da79a2a131)
 ![2 - Copy](https://github.com/shamiraty/statistics-with-python/assets/129072179/cd334700-265b-4a1e-bde6-0e9891d0de92)
@@ -49,3 +46,23 @@ This script performs statistical analysis on the age column of a dataset contain
 ![6](https://github.com/shamiraty/statistics-with-python/assets/129072179/c46c3254-4c56-4889-9b21-547d949da88a)
 ![5](https://github.com/shamiraty/statistics-with-python/assets/129072179/13e311e9-bc8d-4363-9870-58ec765ed2d0)
 ![4](https://github.com/shamiraty/statistics-with-python/assets/129072179/62a220fc-3a99-436e-8a99-806d6d82f0fb)
+
+### Contact Information
+
+#### WhatsApp
+- +255675839840
+- +255656848274
+
+#### YouTube
+[YouTube Channel](https://www.youtube.com/channel/UCjepDdFYKzVHFiOhsiVVffQ)
+
+#### Telegram
+- +255656848274
+- +255738144353
+
+#### PlayStore
+[PlayStore Developer Page](https://play.google.com/store/apps/dev?id=7334720987169992827&hl=en_US&pli=1)
+
+#### GitHub
+[GitHub Profile](https://github.com/shamiraty/)
+
