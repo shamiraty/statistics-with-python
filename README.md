@@ -1,8 +1,7 @@
-# PYTHON PROGRAMMING FOR DATA SCIENCE
+## **CENTRAL TENDENCY & MEASURE OF VARIATIONS**
+## **DESCRIPTIVE ANALYTICS { PYTHON }**
 
-## INTRODUCTION TO CENTRAL TENDENCY AND DATA VARIATION
-
-This script performs statistical analysis on the age column of a dataset containing 2000 records of employee data. The key steps and functionalities include:
+> This script performs statistical analysis on the age column of a dataset containing 2000 records of employee data. The key steps and functionalities include:
 
 ### 1. Data Loading
 - The dataset is loaded from a CSV file.
